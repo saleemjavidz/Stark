@@ -1,7 +1,7 @@
-# JugheadBot
+# Stark
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/screwgoth/JugheadBot/master/LICENSE)
 
-<img src="https://github.com/screwgoth/JugheadBot/blob/master/files/jughead-jones.png" alt="JugheadBot Icon" align="center">
+<img src="https://github.com/saleemjavidz/Stark/blob/master/files/jughead-jones.png" alt="JugheadBot Icon" align="center">
 
 [JugheadBot](https://www.facebook.com/JugheadBot/) is a Facebook Messenger Bot application that I wrote to learn about ChatBots.
 
